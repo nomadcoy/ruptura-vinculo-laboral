@@ -1,3 +1,6 @@
 __pycache__/
 .env
 .ipynb_checkpoints/
+git add .gitignore
+git commit -m "Adicionar gitignore"
+git push
